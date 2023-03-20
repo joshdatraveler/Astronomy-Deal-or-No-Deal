@@ -1,0 +1,15 @@
+Artemis SLS,23000000000.0,6
+Asteroid 16 Psyche,1e+19,10
+Synthetic Mars Soil,20.0,8
+Iron nickle Meterite Piece,12.95,9
+Elysian brewing Space Dust,4.99,13
+Apollo Space Suit,670000.0,11
+Astronaut Food,7.99,4
+Astrophotography kit,384.99,3
+Hubble Telescope,16000000000.0,12
+Voyager 1 and Voyager 2,4270000000.0,2
+Hubble Cosmic Reef metal Print,70.0,15
+Apollo Lunar lander,50000000.0,1
+Amber necklace,6.9e+19,5
+Portable Telescope,74.95,14
+medical oxygen tank,149.0,7

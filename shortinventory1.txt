@@ -1,0 +1,15 @@
+Astronaut Food,23.99,2
+Asteroid Davida,2.699e+19,8
+Mars Perseverance Rover,2400000000.0,6
+Saturn V,51800000000.0,7
+Tektite Meteorite Fragment,8.95,5
+Trip to Space,450000.0,9
+Beginners Telescope,58.0,10
+Binoculars,82.0,11
+Astrophotography Sensor,139.99,12
+Subaru Telescope,200000000.0,13
+JWST,10000000000.0,14
+Sputnik 1,33000000.0,15
+Potting Soil,5.39,1
+Among Us Astronaut Skin,1.99,3
+Amber necklace,6.9e+19,4
